@@ -1,0 +1,1 @@
+# A coin toss randomized with a user-provided seed
